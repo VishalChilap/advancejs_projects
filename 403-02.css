@@ -1,0 +1,13 @@
+button{
+    border:2px solid blue;
+    height: 6rem;
+    width: 5rem;
+}
+.set{
+    border :2px solid black;
+    height:43rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
