@@ -1,9 +1,9 @@
 
 const showres=(e)=>{
+    
    display(e.target.value);
 }
 function display(element){
-    // console.log(element);
     const filter=countries_data.filter((value)=>{
         if(value.name.startsWith(element)){
             return true;
