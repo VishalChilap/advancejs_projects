@@ -1,0 +1,12 @@
+#result{
+border: 2px solid black;
+
+}
+img{
+    height: 30%;
+    width: 20%;
+    border-radius: 50%;
+}
+/* body{
+    background-color: rgba(130, 186, 119, 0.614);
+} */
