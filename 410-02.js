@@ -7,6 +7,8 @@ let defBox = document.querySelector(".def");
 searchbtn.addEventListener('click',function(e){
     e.preventDefault();
     // console.log(input);
+    notFound.innerHTML="";
+    defBox.innerHTML="";
     let word=input.value;
     if(word===''){
         alert('No word typed')
