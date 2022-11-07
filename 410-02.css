@@ -1,0 +1,9 @@
+.suggested{
+    display: inline-block;
+    border: 2px solid;
+    margin-right:7px;
+    margin-top: 5px;
+    padding: 2px 10px;
+    background: rgb(126, 126, 228);
+    border-radius: 5px;
+}
